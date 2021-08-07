@@ -1,4 +1,4 @@
-# Git and GitHub
+# Python Conditional and Iteration
 
 Exercises intended to introduce functionality specific to Python Conditionals and Iteration. For each task create a new file and store it in a GitHub repository.
 
