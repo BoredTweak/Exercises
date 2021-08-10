@@ -1,4 +1,4 @@
-# Git and GitHub
+# Python Console IO
 
 Exercises intended to introduce functionality specific to Python Console IO. For each task create a new file and store it in a GitHub repository.
 

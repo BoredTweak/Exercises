@@ -7,3 +7,5 @@ My experience is that regular practice/study is more important than extreme amou
 2. [Python Console IO](2_python_console_io.md)
 3. [Python Conditional and Iteration](3_python_conditional_and_iteration.md)
 4. [Python File IO](4_python_file_io.md)
+5. [Python Functions](5_python_functions.md)
+6. [Python GUI](6_python_gui.md)
